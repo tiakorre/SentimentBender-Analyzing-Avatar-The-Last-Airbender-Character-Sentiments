@@ -33,10 +33,14 @@ This project uses **Natural Language Processing (NLP)** and machine learning to 
 
 ![Emotion Distribution for Sokka, Zuko, and Iroh](emotion_pies.png)
 
-  - **Sokka:** Neutral, surprise, joy. Sokka is characterized as a schemer and a “scaredy cat” who often fakes bravery to support his friends and maintain his role as the witty strategist of the group.
-  - **Zuko:** Neutral, anger, surprise. Zuko is driven by anger and a desire to reclaim the honor he lost under the harsh rule of his tyrannical father, struggling with identity and redemption throughout the series.
-  - **Iroh:** Neutral, joy, surprise. Iroh serves as a symbol of peace, wisdom, and tranquility, offering guidance and calm perspective to those around him, often acting as a moral compass for Zuko and the team.
+- **Sokka:** Neutral(37.6%), surprise(23.5%), joy (7.4%).  
+As shown in the pie chart above, Sokka’s top emotions reflect his portrayal as a witty strategist from the Southern Water Tribe who often fakes bravery but remains loyal and resourceful.  
 
+- **Zuko:** Neutral(43.2%), anger(18.0%), surprise(17.5%).  
+The pie chart illustrates Zuko’s emotional journey, dominated by anger and surprise, reflecting his struggle with his tyrannical father and quest to reclaim lost honor.  
+
+- **Iroh:** Neutral (47.5%), joy(12.2%), surprise(15.7%).  
+Iroh’s distribution in the pie chart highlights his calm, wise, and joyful nature, aligning with his role as a mentor and moral compass throughout the series.  
 
 ## Tools & Libraries
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, NLTK, TextBlob, WordCloud, Transformers.
