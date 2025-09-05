@@ -33,7 +33,7 @@ This project uses **Natural Language Processing (NLP)** and machine learning to 
   - **Sokka:** Neutral, surprise, joy.
   - **Zuko:** Neutral, anger, surprise.
   - **Iroh:** Neutral, joy, surprise.
-  ![Emotion Distribution for Sokka, Zuko, and Iroh](emotion_pies.png)
+![Emotion Distribution for Sokka, Zuko, and Iroh](emotion_pies.png)
 
 ## Tools & Libraries
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, NLTK, TextBlob, WordCloud, Transformers.
