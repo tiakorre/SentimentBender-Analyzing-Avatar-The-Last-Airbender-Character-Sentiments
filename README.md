@@ -33,7 +33,7 @@ This project uses **Natural Language Processing (NLP)** and machine learning to 
 
 ![Emotion Distribution for Sokka, Zuko, and Iroh](emotion_pies.png)
 
-- **Sokka:** Neutral(37.6%), surprise(23.5%), joy (7.4%).  
+- **Sokka:** Neutral(37.6%), surprise(23.5%), anger (14.7%).  
 As shown in the pie chart above, Sokka’s top emotions reflect his portrayal as a witty strategist from the Southern Water Tribe who often fakes bravery but remains loyal and resourceful.  
 
 - **Zuko:** Neutral(43.2%), anger(18.0%), surprise(17.5%).  
