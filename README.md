@@ -29,8 +29,10 @@ This project uses **Natural Language Processing (NLP)** and machine learning to 
 - Most common emotions: **joy, surprise, neutral, anger**.
 - Overall sentiment is mostly neutral; when excluding neutral, positive sentiment dominates.
 - Character-specific emotional arcs show distinct patterns across seasons.
-Examples:
+### Examples:
+
 ![Emotion Distribution for Sokka, Zuko, and Iroh](emotion_pies.png)
+
   - **Sokka:** Neutral, surprise, joy. Sokka is characterized as a schemer and a “scaredy cat” who often fakes bravery to support his friends and maintain his role as the witty strategist of the group.
   - **Zuko:** Neutral, anger, surprise. Zuko is driven by anger and a desire to reclaim the honor he lost under the harsh rule of his tyrannical father, struggling with identity and redemption throughout the series.
   - **Iroh:** Neutral, joy, surprise. Iroh serves as a symbol of peace, wisdom, and tranquility, offering guidance and calm perspective to those around him, often acting as a moral compass for Zuko and the team.
