@@ -41,7 +41,7 @@ The pie chart illustrates Zuko’s emotional journey, dominated by anger and sur
 
 - **Iroh:** Neutral (47.5%), joy(12.2%), surprise(15.7%).  
 Iroh’s distribution in the pie chart highlights his calm, wise, and joyful nature, aligning with his role as a mentor and moral compass throughout the series.  
-
+Data Visualization: [Click here](https://public.tableau.com/views/AvatarEmotionandSentimentDistribution/MainBoard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 ## Tools & Libraries
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, NLTK, TextBlob, WordCloud, Transformers.
 
